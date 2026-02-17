@@ -1,3 +1,5 @@
+![image alt](https://github.com/mdbasheer-tech/EXPLORATORY-DATA-ANALYSIS/blob/b5b5d1ff25ae9befa6a12e9c9008ff52e5da567a/Screenshot%202026-02-17%20161716.png)
+
 # DATA with BARA Exploratory Project
 
 This repository contains a comprehensive collection of SQL scripts for **data exploration, analytics, and reporting**.  
